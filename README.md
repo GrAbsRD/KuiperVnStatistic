@@ -1,4 +1,16 @@
 # KuiperVnStatistic
+BibTeX Item for Citation with LaTeX:
+@misc{chen2023fixedpoint,
+      title={Fixed-Point Algorithms for Solving the Critical Value and Upper Tail Quantile of Kuiper's Statistics}, 
+      author={Xiao Chen and Hong-Yan Zhang and Rui-Jia Lin and Zhi-Qiang Feng and Yu Zhou},
+      year={2023},
+      eprint={2308.09463},
+      archivePrefix={arXiv},
+      primaryClass={stat.CO},
+      note = {\url{https://arxiv.org/abs/2308.09463}},
+}
+
+
 Code for Kuiper's Vn statistic in the Goodness-of-fit Test in Mathematical Statistics 
 
 /*********** Compile+Link+Run at Unix/Linux terminal *****************
@@ -19,13 +31,4 @@ Code for Kuiper's Vn statistic in the Goodness-of-fit Test in Mathematical Stati
  *  Newton iterative method works well for both V_n and V_{n,n} test  
  * *******************************************************************/
 
-BibTeX Item for Citation with LaTeX:
-@misc{chen2023fixedpoint,
-      title={Fixed-Point Algorithms for Solving the Critical Value and Upper Tail Quantile of Kuiper's Statistics}, 
-      author={Xiao Chen and Hong-Yan Zhang and Rui-Jia Lin and Zhi-Qiang Feng and Yu Zhou},
-      year={2023},
-      eprint={2308.09463},
-      archivePrefix={arXiv},
-      primaryClass={stat.CO},
-      note = {https://arxiv.org/abs/2308.09463},
-}
+
