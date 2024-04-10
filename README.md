@@ -1,13 +1,17 @@
 # KuiperVnStatistic
 BibTeX Item for Citation with LaTeX:
-@misc{chen2023fixedpoint,
-      title={Fixed-Point Algorithms for Solving the Critical Value and Upper Tail Quantile of Kuiper's Statistics}, 
-      author={Xiao Chen and Hong-Yan Zhang and Rui-Jia Lin and Zhi-Qiang Feng and Yu Zhou},
-      year={2023},
-      eprint={2308.09463},
-      archivePrefix={arXiv},
-      primaryClass={stat.CO},
-      note = {\url{https://arxiv.org/abs/2308.09463}},
+@article{ZHANG2024e28274,
+title = {Fixed-point algorithms for solving the critical value and upper tail quantile of Kuiper's statistics},
+journal = {Heliyon},
+volume = {10},
+number = {7},
+pages = {e28274},
+year = {2024},
+issn = {2405-8440},
+doi = {https://doi.org/10.1016/j.heliyon.2024.e28274},
+url = {https://www.sciencedirect.com/science/article/pii/S2405844024043056},
+author = {Hong-Yan Zhang and Wei Sun and Xiao Chen and Rui-Jia Lin and Yu Zhou},
+keywords = {Kuiper's statistic, Upper tail quantile, Fixed-point algorithm, Numerical approximation, Algorithm design, STEM education},
 }
 
 
